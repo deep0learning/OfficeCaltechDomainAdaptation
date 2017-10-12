@@ -14,7 +14,7 @@ from sklearn import preprocessing
 #                   Part of code about arguments to modify                    #
 #                                                                             #
 
-featuresToUse = "GoogleNet1024"  # surf, CaffeNet4096, GoogleNet1024
+featuresToUse = "surf"  # surf, CaffeNet4096, GoogleNet1024
 numberIteration = 10
 adaptationAlgoUsed = ["NA", "SA"]
 # see function adaptData for available algorithms
